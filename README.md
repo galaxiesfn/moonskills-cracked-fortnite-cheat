@@ -9,3 +9,12 @@ Download:
 
 
 Instructions:
+
+
+1.) Open the driver folder and drag "moondriver.sys" into KDMapper
+
+2.) Then open MoonSkillsLoader 
+
+3.) When it asks for a key, put: moonskillscracked
+
+4.) Open fortnite and have fun (Its undetected)
